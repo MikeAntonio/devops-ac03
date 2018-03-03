@@ -1,0 +1,3 @@
+Resposavel da implatação do projeto 
+Everton rodrigo freitas 
+primeira coisa que deve ser feita é a escolha da metodologia que será utilizada na condução do projeto. Isso inclui não apenas os processos em si, mas também o relacionamento com os diversos atores envolvidos, o cronograma e o fluxo do projeto. Tudo isso deve estar abarcado dentro de um método.
